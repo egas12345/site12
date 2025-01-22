@@ -7,7 +7,7 @@
 
 ## Деплой
 
-[https://willowy-croquembouche-6c1a11.netlify.app/\](https://willowy-croquembouche-6c1a11.netlify.app/)
+[https://dancing-sprinkles-14b488.netlify.app/\](https://dancing-sprinkles-14b488.netlify.app/)
 
 ## Функционал
 
