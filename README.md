@@ -7,7 +7,7 @@
 
 ## Деплой
 
-[https://dancing-sprinkles-14b488.netlify.app/\](https://dancing-sprinkles-14b488.netlify.app/)
+(https://dancing-sprinkles-14b488.netlify.app/)
 
 ## Функционал
 
